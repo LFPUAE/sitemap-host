@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lfpuae.github.io/sitemap-host/sitemap.xml
