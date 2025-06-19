@@ -64,7 +64,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                     height: MediaQuery.sizeOf(context).height * 0.6,
                     decoration: BoxDecoration(
                       gradient: LinearGradient(
-                        colors: [Color(0xFFB29433), Colors.white],
+                        colors: [Color(0xFFC0CBA7), Colors.white],
                         stops: [0.0, 1.0],
                         begin: AlignmentDirectional(0.17, 1.0),
                         end: AlignmentDirectional(-0.17, -1.0),
